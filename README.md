@@ -30,4 +30,4 @@ At the time of writing, the outcome is a 4512-line [file](chinadns_chnroute.txt)
 
 This format is ready to be consumed by other scripts.
 
-<b name="aggfoot">1</b> The aggregate-cidr-addresses.pl was borrowed from [here](https://gist.github.com/denji/17e30bddb9ce9e50294a). [↩](#agg)
+<b name="aggfoot">1</b> The [aggregate-cidr-addresses.pl](aggregate-cidr-addresses.pl) was borrowed from [here](https://gist.github.com/denji/17e30bddb9ce9e50294a). [↩](#agg)
